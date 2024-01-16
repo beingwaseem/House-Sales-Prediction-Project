@@ -14,17 +14,17 @@
 - matplotlib
 - scikit-learn
 
-Introduction
+## Introduction
 
 This repository contains the code and analysis for a real estate investment project where we aim to predict the market prices of houses based on various features. The project involves data analysis, exploratory data visualization, and building predictive models using machine learning techniques.
 
-Tools
+## Tools
 
 	•	Python
 	•	JupyterLab
 	•	Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 
-Key Contributions
+## Key Contributions
 
 	•	Importing and cleaning the dataset
 	•	Exploratory Data Analysis (EDA) to understand the relationships between different features and house prices
@@ -34,7 +34,7 @@ Key Contributions
 	•	Implementing Ridge regression and polynomial features for model refinement
 	•	Conducting cross-validation for robust model assessment
 
-Key Skills Demonstrated
+## Key Skills Demonstrated
 
 	•	Data wrangling and cleaning
 	•	Exploratory Data Analysis (EDA) techniques
@@ -44,13 +44,13 @@ Key Skills Demonstrated
 	•	Polynomial feature transformation
 	•	Cross-validation for model assessment
 
-Achievements
+## Achievements
 
 	•	Successfully predicted house prices based on various features
 	•	Utilized advanced techniques to improve model performance
 	•	Demonstrated proficiency in data analysis and machine learning with practical applications
 
-Why This Repository
+## Why This Repository
 
 This repository showcases a comprehensive approach to predicting house prices, making it a valuable addition to your portfolio. The project demonstrates skills in data analysis, machine learning, and model evaluation, providing a practical example of solving real-world problems in the field of real estate investment.
 
