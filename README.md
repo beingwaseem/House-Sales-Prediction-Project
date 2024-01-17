@@ -54,7 +54,7 @@ This repository contains the code and analysis for a real estate investment proj
 
 This repository showcases a comprehensive approach to predicting house prices, making it a valuable addition to your portfolio. The project demonstrates skills in data analysis, machine learning, and model evaluation, providing a practical example of solving real-world problems in the field of real estate investment.
 
-Feel free to fork, clone, or contribute to this repository to enhance your skills in data analysis and SQL. Happy coding!
+Feel free to fork, clone, or contribute to this repository to enhance your skills in data analysis. Happy coding!
 
 
 
